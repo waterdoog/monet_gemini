@@ -1,0 +1,8 @@
+{
+  "name": "Monet Vision",
+  "description": "Real-time Impressionist video renderer with AI-powered artistic critique and parameter tuning.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
